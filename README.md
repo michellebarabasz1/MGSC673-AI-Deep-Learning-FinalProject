@@ -1,0 +1,2 @@
+Multi-task Learning for Predicting House Prices and House Category
+This project aims to develop a multi-task neural network to predict house prices and categorize houses into distinct categories. The project includes data exploration, preprocessing, and model building using PyTorch Lightning, with hyperparameter optimization through Optuna. The final model demonstrates strong predictive capabilities for both regression and classification tasks, providing valuable insights into the housing market.
